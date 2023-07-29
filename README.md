@@ -35,9 +35,8 @@ src="https://img.shields.io/github/followers/Ahmad21342?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ahmad21342"><img src="https://github-readme-stats.vercel.app/api?username=Ahmad21342&show_icons=true&hide=issues,&count_private=true&title_color=64748b&text_color=444e59&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="Ahmad21342's GitHub stats" /></a>
-
-<a href="http://www.github.com/Ahmad21342"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad21342&stroke=444e59&background=000000&ring=64748b&fire=64748b&currStreakNum=444e59&currStreakLabel=64748b&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
+ <a href="http://www.github.com/Ahmad21342"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad21342&stroke=444e59&background=000000&ring=64748b&fire=64748b&currStreakNum=444e59&currStreakLabel=64748b&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
+ <a href="http://www.github.com/Ahmad21342"><img src="https://github-readme-stats.vercel.app/api?username=Ahmad21342&show_icons=true&hide=issues,&count_private=true&title_color=64748b&text_color=444e59&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="Ahmad21342's GitHub stats" /></a>
 
 ### Support Me
 
