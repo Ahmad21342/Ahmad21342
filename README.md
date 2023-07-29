@@ -1,7 +1,5 @@
 <img src=https://github.com/Ahmad21342/Ahmad21342/blob/31c23b87ad6d7e2600f174a9f6b51fc762efe56c/%D0%9B%D0%B0%D0%B4%D0%BD%D0%BE.jpg>
 
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmad
 =============================================================================================================================
 
