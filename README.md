@@ -13,9 +13,8 @@
 После получение аттестата, я начал обучаться у Tocen Academy веб-разроботке и изучал язык программы HTML, CSS.
 После 2-х месяцев обучение, начал изучать <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="16" height="16" alt="JavaScript" /></a>. 
 
-* 🌍  I'm based in Almaty
-* ✉️  You can contact me at [ladno1pon0@gmail.com](mailto:ladno1pon0@gmail.com)
-* 🧠  I'm learning JavaScript (JS)
+* 🌍  Я живу в г. Алматы
+* 🧠  Я изучаю <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="20" height="20" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" height="20" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript" /></a>
 
 ### Skills
 
