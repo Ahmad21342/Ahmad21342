@@ -10,11 +10,7 @@
 
 * 🌍  I'm based in Almaty
 * ✉️  You can contact me at [ladno1pon0@gmail.com](mailto:ladno1pon0@gmail.com)
-
 * 🧠  I'm learning JavaScript (JS)
-
-<a href="https://www.github.com/Ahmad21342" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Ahmad21342?logo=github&style=for-the-badge&color=14b8a6&labelColor=000000" /></a>
 
 ### Skills
 
