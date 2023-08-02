@@ -31,6 +31,11 @@
 
 <p align="left"> <a href="https://www.codepen.io/rwjiijsz-the-builder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/voprosy123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Ahmad21342" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 
+### Buttons 
+
+![Static Badge](https://img.shields.io/badge/build-ahmadik-brightgreen?style=plastic&logo=telegram&logoColor=black&label=Telegram&labelColor=blue&color=black&cacheSeconds=https%253A%252F%252Ft.me%252Fpon1p&link=https%3A%2F%2Ft.me%2Fpon1p)
+![Static Badge](https://img.shields.io/badge/build-ahmadik-brightgreen?style=plastic&logo=discord&logoColor=black&label=Discord&labelColor=blue&color=black&cacheSeconds=https%253A%252F%252Ft.me%252Fpon1p&link=https%3A%2F%2Fdiscord.com%2Fusers%2Fvoprosy123)
+
 ### Badges
 
 <b>My GitHub Stats</b>
